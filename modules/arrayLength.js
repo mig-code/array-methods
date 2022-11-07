@@ -1,7 +1,7 @@
-export function arrayLength(arr = []) {
+export function arrayLength(arr) {
     let length = 0;
-    while (arr[length] !== undefined) {
-        length++;
+    for (const i in arr) {
+        length = Number(i) + 1;
     }
     return length;
 }
