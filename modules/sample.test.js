@@ -1,4 +1,4 @@
-import { sum } from './sample.js';
+import { sum } from './sample';
 
 describe('Given sum function', () => {
     const value1 = 3;
