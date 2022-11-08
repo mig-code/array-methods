@@ -6,8 +6,3 @@ export function arrayPush(arr) {
     }
     return arrayLength(arr);
 }
-
-const arr = [];
-const lenght = arrayPush(arr, 3, 4, 5);
-console.log(arr);
-console.log(lenght);
