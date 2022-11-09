@@ -5,7 +5,7 @@ const cases = [
     { arr: [1, 2, 3], funct: (x) => x === 3, expected: 2 },
     { arr: [], funct: (x) => x === 1, expected: -1 },
 ];
-describe('Given arrayFind function', () => {
+describe('Given arrayFindIndex function', () => {
     cases.forEach((item) => {
         test(`Then result of findINDEX ${item.funct} from ${item.arr} should be ${item.expected}`, () => {
             const expected = item.expected;
