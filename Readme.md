@@ -13,8 +13,8 @@
     ✔️ filter
     map
     ✔️ findIndex
-    includes
-    indexOf
+    ✔️ includes
+    ✔️ indexOf
     reduce
     join
 
