@@ -7,8 +7,8 @@
     ✔️ pop
     ✔️ unshift
     ✔️ shift
-    some
-    every
+    ✔️ some
+    ✔️ every
     find
     filter
     map
@@ -27,4 +27,5 @@ Cualquiera de tus funciones puede usar las que ya hayas creado.
 -Configura SonarCloud asociado a tu repositorio, incluyendo el coverage de los tests
 
 ## SONAR COVERAGE
+
 https://sonarcloud.io/summary/overall?id=mig-code__202210-W5-MiguelPgomez
