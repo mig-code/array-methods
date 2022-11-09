@@ -9,10 +9,10 @@
     ✔️ shift
     ✔️ some
     ✔️ every
-    find
-    filter
+    ✔️ find
+    ✔️ filter
     map
-    findIndex
+    ✔️ findIndex
     includes
     indexOf
     reduce
