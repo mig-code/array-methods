@@ -2,6 +2,8 @@
 
 ### Crea un modulo con funciones que repliquen, sin utilizar ninguno de los métodos ya existentes en el prototipo, los siguientes métodos de array:
 
+![Imagen del proyecto](/assets/javascript_methods_v2.png)
+
     ✔️ length
     ✔️ push
     ✔️ pop
@@ -15,7 +17,7 @@
     ✔️ findIndex
     ✔️ includes
     ✔️ indexOf
-    reduce
+    ✔️ reduce
     ✔️ join
 
 Cualquiera de tus funciones puede usar las que ya hayas creado.
