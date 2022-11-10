@@ -11,7 +11,7 @@
     ✔️ every
     ✔️ find
     ✔️ filter
-    map
+    ✔️ map
     ✔️ findIndex
     ✔️ includes
     ✔️ indexOf

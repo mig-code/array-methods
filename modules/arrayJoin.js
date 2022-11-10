@@ -13,8 +13,3 @@ export function arrayJoin(arr, separator) {
     }
     return result;
 }
-
-const names = ['John', 'Jane', 'Mary'];
-
-const joinNames = arrayJoin(names, ' ');
-console.log(joinNames);
