@@ -16,7 +16,7 @@
     ✔️ includes
     ✔️ indexOf
     reduce
-    join
+    ✔️ join
 
 Cualquiera de tus funciones puede usar las que ya hayas creado.
 
